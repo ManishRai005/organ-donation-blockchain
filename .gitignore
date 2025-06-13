@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+ai-service/venv/
+
+# Ignore DFX generated files
+.dfx/
+
+# Ignore environment files
+.env
+canister_ids.json
+network-id
+replica-effective-config.json
